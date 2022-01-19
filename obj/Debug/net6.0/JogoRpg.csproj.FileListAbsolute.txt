@@ -1,0 +1,15 @@
+C:\Users\Frenet\Desktop\Demos\JogoRpg\bin\Debug\net6.0\JogoRpg.exe
+C:\Users\Frenet\Desktop\Demos\JogoRpg\bin\Debug\net6.0\JogoRpg.deps.json
+C:\Users\Frenet\Desktop\Demos\JogoRpg\bin\Debug\net6.0\JogoRpg.runtimeconfig.json
+C:\Users\Frenet\Desktop\Demos\JogoRpg\bin\Debug\net6.0\JogoRpg.dll
+C:\Users\Frenet\Desktop\Demos\JogoRpg\bin\Debug\net6.0\ref\JogoRpg.dll
+C:\Users\Frenet\Desktop\Demos\JogoRpg\bin\Debug\net6.0\JogoRpg.pdb
+C:\Users\Frenet\Desktop\Demos\JogoRpg\obj\Debug\net6.0\JogoRpg.csproj.AssemblyReference.cache
+C:\Users\Frenet\Desktop\Demos\JogoRpg\obj\Debug\net6.0\JogoRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frenet\Desktop\Demos\JogoRpg\obj\Debug\net6.0\JogoRpg.AssemblyInfoInputs.cache
+C:\Users\Frenet\Desktop\Demos\JogoRpg\obj\Debug\net6.0\JogoRpg.AssemblyInfo.cs
+C:\Users\Frenet\Desktop\Demos\JogoRpg\obj\Debug\net6.0\JogoRpg.csproj.CoreCompileInputs.cache
+C:\Users\Frenet\Desktop\Demos\JogoRpg\obj\Debug\net6.0\JogoRpg.dll
+C:\Users\Frenet\Desktop\Demos\JogoRpg\obj\Debug\net6.0\ref\JogoRpg.dll
+C:\Users\Frenet\Desktop\Demos\JogoRpg\obj\Debug\net6.0\JogoRpg.pdb
+C:\Users\Frenet\Desktop\Demos\JogoRpg\obj\Debug\net6.0\JogoRpg.genruntimeconfig.cache
